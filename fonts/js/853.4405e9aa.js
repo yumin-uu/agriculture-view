@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkagriculture_information"]=self["webpackChunkagriculture_information"]||[]).push([[853],{2853:function(t,n,u){u.r(n),u.d(n,{default:function(){return l}});var o=function(){var t=this,n=t._self._c;return n("div",{staticClass:"not-found"},[n("h2",[t._v("404")]),n("el-button",{staticClass:"btn",on:{click:function(n){return t.goHome()}}},[t._v("返回首页")])],1)},r=[],e=(u(57658),{methods:{goHome(){this.$router.push("/")}}}),i=e,s=u(1001),c=(0,s.Z)(i,o,r,!1,null,"d349f2b4",null),l=c.exports}}]);
-//# sourceMappingURL=853.4405e9aa.js.map
